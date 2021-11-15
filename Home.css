@@ -1,0 +1,64 @@
+body {
+    background-image: url(Restaurant-photo.jpg);
+    background-size: cover;
+    height: 105%;
+    left: -5px;
+    right: -5px;
+    top: -5px;
+    bottom: -5px;
+    position: fixed;
+    margin: 0 auto;
+}
+
+.header-list a{
+    float: left;
+    color: #E1D4C5;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.header-list {
+    float: left;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #021320;
+    width: 1698px;
+    opacity: 0.8;
+}
+
+.header-list a:hover {
+    color: black;
+}
+
+.header-list a.home {
+    font-size: 50px;
+    margin-top: 13px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.menu a {
+    float: right;
+    padding-right: 27px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 100px;
+    padding-top: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header p {
+    color: white;
+    text-align: center;
+    text-justify: auto;
+    margin-top: 0px;
+}
